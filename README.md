@@ -159,7 +159,7 @@ I think these code repositories are okay...
   
 <h3 align="center">Buy me a Coffee ☕️</h3>
 
-<a href="https://www.coffeebede.com/amir__gh_dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://www.coffeebede.com/amir__gh_dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/></a>
 
 </div>
 
