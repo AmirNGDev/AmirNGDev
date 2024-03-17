@@ -143,7 +143,6 @@ I think these code repositories are okay...
 </div>
 
 ---
-س
 
 <h2 align="center">Support Me</h2>
 
