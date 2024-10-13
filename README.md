@@ -82,13 +82,13 @@ I think these code repositories are okay...
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/SeyyedAmirNimaGhaebi/Flutter130">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=Flutter130&theme=dark" />
+        <a href="https://github.com/AmirNGDev/Flutter130">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirNGDev&repo=Flutter130&theme=dark" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/SeyyedAmirNimaGhaebi/pub_news">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=pub_news&theme=dark" />
+        <a href="https://github.com/AmirNGDev/pub_news">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirNGDev&repo=pub_news&theme=dark" />
         </a>
       </td>
     </tr>
@@ -101,13 +101,13 @@ I think these code repositories are okay...
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/SeyyedAmirNimaGhaebi/DataBase_hive_in_flutter">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=DataBase_hive_in_flutter&theme=dark" />
+        <a href="https://github.com/AmirNGDev/DataBase_hive_in_flutter">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirNGDev&repo=DataBase_hive_in_flutter&theme=dark" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/SeyyedAmirNimaGhaebi/App-store-optimization">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=App-store-optimization&theme=dark" />
+        <a href="https://github.com/AmirNGDev/App-store-optimization">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirNGDev&repo=App-store-optimization&theme=dark" />
         </a>
       </td>
     </tr>
@@ -120,17 +120,17 @@ I think these code repositories are okay...
 # 📊 GitHub Stats:   
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirNGDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirNGDev&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirNGDev&theme=dark&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
   
-  <img src="https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AmirNGDev&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
 </p>
 
 
@@ -139,25 +139,25 @@ I think these code repositories are okay...
 # 📕 Articles :
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/5cdde0e3-62ba-45c9-ac22-f0d9a4027025)
-<a href="https://github.com/SeyyedAmirNimaGhaebi/DataBase_hive_in_flutter">Download and read the article</a>
+<a href="https://github.com/AmirNGDev/DataBase_hive_in_flutter">Download and read the article</a>
 
 ---
 
 ![aso](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/39a6c21d-46d4-402c-bb05-62e1c130f27b)
-<a href="https://github.com/SeyyedAmirNimaGhaebi/App-store-optimization">Download and read the article</a>
+<a href="https://github.com/AmirNGDev/App-store-optimization">Download and read the article</a>
 
 ---
 
 # 🖥 My best portfolios :
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
-<a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">👁 More details about the project</a>
+<a href="https://github.com/AmirNGDev/BMI-Project">👁 More details about the project</a>
 
 
 ---
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/be27c1bd-4043-4649-9200-2b2a917706bc)
 
-<a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui">👁 More details about the project</a>
+<a href="https://github.com/AmirNGDev/Login-and-Signup-Ui">👁 More details about the project</a>
 
 <div align="center">
    <a href="https://github.com/SeyyedAmirNimaGhaebi/My-best-portfolios"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/View_all_portfolios.png?raw=true" width="400px"></a>
@@ -182,5 +182,5 @@ I think these code repositories are okay...
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
-![Followers](https://img.shields.io/github/followers/SeyyedAmirNimaGhaebi.svg?style=social&label=Follow&maxAge=2592000)
+[![](https://visitcount.itsvg.in/api?id=AmirNGDev&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
+![Followers](https://img.shields.io/github/followers/AmirNGDev.svg?style=social&label=Follow&maxAge=2592000)
