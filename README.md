@@ -75,11 +75,14 @@ You can see below the certificate of completion of the courses that I took in th
 <a href="https://www.coffeebede.com/amir__gh_dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/></a>
 
 ---
+
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
 
-[![Amir's Spotify Playing](https://novatorem-five-steel-89.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/22kegf7wtfidrsyua3mrnbbaa)
+[![Amir's Spotify Playing](https://novatorem-five-steel-89.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/31lffq7i3kahmzfdlqtt3qj2k6fe)
+
 ---
+
 I think these code repositories are okay...
 
 <div align="center">
