@@ -11,10 +11,8 @@
 <div align="center">
   <a href="https://t.me/Amir_gh_dev"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="50px" width="50px"></a>
   </a>
-  <a href="https://www.instagram.com/fluttershop.dev"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/instagram_logo_88px.png?raw=true" height="50px" width="50px">
-  <a href="https://s8.uupload.ir/files/untitled_y017.png"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript"> 
-  <a href=""><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/office_phone_88px.png?raw=true" height="50px" width="50px">
-  <img src="" width="48" title="">   
+  <a href="https://www.instagram.com/fluttershop.dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="48" title="Instagram"> 
+  <a href="https://s8.uupload.ir/files/untitled_y017.png"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="48" title="Gmail"> 
 </div>
 
 
