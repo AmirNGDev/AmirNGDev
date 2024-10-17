@@ -79,7 +79,7 @@ You can see below the certificate of completion of the courses that I took in th
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
-[![Spotify](https://spotify-now-playing-ten-umber.vercel.app/api/spotify)](https://open.spotify.com/user/31lffq7i3kahmzfdlqtt3qj2k6fe)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 ---
 
