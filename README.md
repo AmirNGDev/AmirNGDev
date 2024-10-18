@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://t.me/Amir_gh_dev"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="55px" width="55px">
-  <a href="https://t.me/Amir_gh_dev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="55px" width="55px">
+  <a href="https://t.me/Amir_gh_dev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="50px" width="50px">
   <a href="https://www.instagram.com/amir_gh_dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="48" title="Instagram"> 
   <a href="mailto:ga7089036@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="48" title="Gmail"></a>&nbsp;&nbsp;
 
