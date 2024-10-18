@@ -14,8 +14,8 @@
   <a href="https://www.instagram.com/amir_gh_dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="48" title="Instagram"> </a>&nbsp;&nbsp;
   <a href="https://wa.me/989031107379"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50px" width="50px"></a>&nbsp;&nbsp;
   <a href="mailto:ga7089036@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="48" title="Gmail"></a>&nbsp;&nbsp;
-  <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="48" title="LinkedIn"></a>&nbsp;&nbsp;
-  <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverflow"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/seyyed-amir-nima-ghaebi-7338a8278/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="48" title="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/22320929/amir?tab=profile"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverflow"></a>&nbsp;&nbsp;
 
     
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
