@@ -4,7 +4,11 @@
 
 <p align="center">I started programming when I was 12 years old and now I work with the advanced Flutter framework</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&width=435&lines=I+started+programming+when+I+was+12+years+old+and+now+I+work+with+the+advanced+Flutter+framework)](https://git.io/typing-svg)
+  
+</div>
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/301cabce-88ac-4e58-948b-5c63b6402d69)
 
