@@ -9,8 +9,8 @@
 <h2 align="center">Connect with me:</h2>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31lffq7i3kahmzfdlqtt3qj2k6fe?si=536a5e4575d9489e"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="55px" width="55px"></a>&nbsp;&nbsp;
-  <a href="https://t.me/Amir_gh_dev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="50px" width="50px"></a>&nbsp;&nbsp;
+  <a href="https://t.me/Amir_gh_dev"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="55px" width="55px"></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31lffq7i3kahmzfdlqtt3qj2k6fe?si=536a5e4575d9489"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="50px" width="50px"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/amir_gh_dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="48" title="Instagram"> </a>&nbsp;&nbsp;
   <a href="mailto:ga7089036@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="48" title="Gmail"></a>&nbsp;&nbsp;
 
