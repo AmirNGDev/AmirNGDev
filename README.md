@@ -2,8 +2,6 @@
 
 <img align="center" src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/5d4c6038-71f3-4a6a-92ac-8b0a3325d8fe" alt="Just for Fun :D">
 
-<p align="center">I started programming when I was 12 years old and now I work with the advanced Flutter framework</p>
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=F7F7F7&center=true&width=500&lines=I+started+programming+at+the+age+of+12;and+now+I'm+working+with+the+advanced+Flutter+framework)](https://git.io/typing-svg)
