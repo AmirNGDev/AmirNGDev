@@ -12,8 +12,10 @@
   <a href="https://t.me/Amir_gh_dev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48px" width="48px"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/31lffq7i3kahmzfdlqtt3qj2k6fe?si=536a5e4575d9489"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="48px" width="48px"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/amir_gh_dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="48" title="Instagram"> </a>&nbsp;&nbsp;
-  <a href="https://wa.me/989031107379"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="48px" width="48px"></a>&nbsp;&nbsp;
+  <a href="https://wa.me/989031107379"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50px" width="50px"></a>&nbsp;&nbsp;
   <a href="mailto:ga7089036@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="48" title="Gmail"></a>&nbsp;&nbsp;
+  <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="48" title="LinkedIn"></a>&nbsp;&nbsp;
+  <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverflow"></a>&nbsp;&nbsp;
 
     
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
