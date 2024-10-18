@@ -3,6 +3,7 @@
 <img align="center" src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/5d4c6038-71f3-4a6a-92ac-8b0a3325d8fe" alt="Just for Fun :D">
 
 <p align="center">I started programming when I was 12 years old and now I work with the advanced Flutter framework</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/301cabce-88ac-4e58-948b-5c63b6402d69)
 
