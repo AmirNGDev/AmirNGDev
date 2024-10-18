@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&width=435&lines=I+started+programming+when+I+was+12+years+old+and+now+I+work+with+the+advanced+Flutter+framework)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=F7F7F7&center=true&width=500&lines=I+started+programming+at+the+age+of+12;and+now+I'm+working+with+the+advanced+Flutter+framework)](https://git.io/typing-svg)
   
 </div>
 
