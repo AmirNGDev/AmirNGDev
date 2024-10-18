@@ -8,7 +8,7 @@
   
 </div>
 
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/301cabce-88ac-4e58-948b-5c63b6402d69)
+![code](https://github.com/user-attachments/assets/39fc9b1c-b818-4651-9628-507029b8c1af)
 
 <h2 align="center">Connect with me:</h2>
 
