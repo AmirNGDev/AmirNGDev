@@ -66,19 +66,7 @@
 
 <h2>How did I get to know programming?</h2>
 
-<p align="left">Hello, my name is Seyyed Amir Nima Ghaebi.
 
-I am from the city of Zanjan. I was interested in electronics since I was a child. I wanted to learn and make more things. My cousin taught me about electronics and I progressed so much that I reached the programming section of Arduino boards and from there I fell in love with programming.
-
-I started learning programming at the age of 12. I first learned C# language and despite all the difficulties I was able to become a professional in it, and with many courses I bought from sites like Faradars, I learned more difficult things, but with a good C# language. I couldn't achieve my goals in programming, so after a lot of searching and consulting with experienced programmers, I got to know the Flutter framework. At first, I watched a few courses of it on YouTube and saw that it had a lot of what I wanted, and finally the Flutter framework. I chose and started learning this powerful and cool framework.
-The Flutter framework was what I wanted, it had the same widgets, the same features that I wanted, I could write the apps I wanted with it.
-When I learned Flutter up to the advanced chapters, I met the Flutter programming groups on Telegram. There, I could easily solve the errors I had in my project with their help, and they helped me a lot.
-
-Besides programming, I also have other small skills such as working with Word and PowerPoint software, typing.
-
-I am happy to help you.
-
-You can see below the certificate of completion of the courses that I took in the Flutter courses and the examples of work that I have done so far.
 
 <a href="https://www.coffeebede.com/amir__gh_dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/></a>
 
