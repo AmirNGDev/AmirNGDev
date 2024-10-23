@@ -64,6 +64,14 @@
 </div>
 
 
+### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
+
+<div align="left">
+ 
+  🎮 `Games` • 📽️ `Cinema` • 📚 `Learning` \
+  &#8199;&#8199;&#8199; 🎧 `Music` • 🍜 `Anime` • 🌐 `Languages`
+
+</div>
 
 
 <a href="https://www.coffeebede.com/amir__gh_dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/></a>
