@@ -68,13 +68,10 @@
 
 <div align="left">
  
-  🎮 `Games` • 📽️ `Cinema` • 📚 `Learning` \
-  &#8199;&#8199;&#8199; 🎧 `Music` • 🍜 `Anime` • 🌐 `Languages`
+  🎮 `Games` • 🍜 `Anime` • 🎧 `Music` • 📚 `Learning` \
+  &#8199;&#8199;&#8199; 🏃‍♂️ `Run` • 🌐 `Languages` • 📽️ `Cinema` •
 
 </div>
-
-
-<a href="https://www.coffeebede.com/amir__gh_dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/></a>
 
 ---
 
