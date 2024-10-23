@@ -69,7 +69,7 @@
 <div align="left">
  
   🎮 `Games` • 🍜 `Anime` • 🎧 `Music` • 📚 `Learning` \
-  &#8199;&#8199;&#8199; 🏃‍♂️ `Run` • 🌐 `Languages` • 📽️ `Cinema` •
+  &#8199;&#8199;&#8199; 💪 `Exercise` • 🎤 `Podcasting`
 
 </div>
 
