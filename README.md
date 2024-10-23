@@ -63,6 +63,9 @@
   <a href="https://www.instagram.com/fluttershop.dev"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/Channel.png?raw=true" width="280px"></a>
 </div>
 
+<div align="left">
+  I'm a programmer currently diving deep into the world of app development with a particular focus on Flutter. I'm passionate about learning new technologies and expanding my skill set to create impactful and innovative solutions.
+</div>
 
 ### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
 
