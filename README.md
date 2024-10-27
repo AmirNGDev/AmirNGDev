@@ -128,25 +128,6 @@ I think these code repositories are okay...
 
 ---
 
-# 📊 GitHub Stats:   
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirNGDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirNGDev&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirNGDev&theme=dark&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=AmirNGDev&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
-</p>
-
-
----
-
 # 📕 Articles :
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/5cdde0e3-62ba-45c9-ac22-f0d9a4027025)
@@ -176,15 +157,23 @@ I think these code repositories are okay...
 
 ---
 
-<h2 align="center">Support Me</h2>
+# 📊 GitHub Stats:   
 
-<div align="center" style="display:flex;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirNGDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirNGDev&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirNGDev&theme=dark&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
   
-<h3 align="center">Buy me a Coffee ☕️</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AmirNGDev&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
+</p>
 
-<a href="https://www.coffeebede.com/amir__gh_dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/></a>
-
-</div>
+---
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 
