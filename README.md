@@ -161,8 +161,6 @@ I think these code repositories are okay...
         🧩 <b>Version:</b> 1.0.0
       </p>
     </td>
-
-    <!-- Download Buttons -->
     <td align="center" width="50%">
       <a href="https://play.google.com/store/apps/details?id=com.example.app">
         <img alt="Get it on Google Play"
@@ -178,20 +176,6 @@ I think these code repositories are okay...
     </td>
   </tr>
 </table>
-
----
-
-### 📱 Description
-
-**Project_Name** is a powerful app designed to help users with ...
-
----
-
-### 🚀 Features
-
-- ✨ Feature 1
-- 📌 Feature 2
-- 🔒 Optional: Limited functionality in free version
 
 ---
 
