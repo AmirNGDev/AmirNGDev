@@ -154,7 +154,7 @@ I think these code repositories are okay...
       <p style="margin: 4px 0;">
         🔒 <b>Status:</b> Closed Source  
         &nbsp;|&nbsp;
-        🧩 <b>Version:</b> 1.0.0
+        🧩 <b>Version:</b> 1.4.5
       </p>
     </td>
   </tr>
