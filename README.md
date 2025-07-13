@@ -148,12 +148,12 @@ I think these code repositories are okay...
 
 <!-- App Screenshot -->
 <p align="center">
-  <img src="https://your-screenshot-url.png" alt="App Screenshot" width="600"/>
+  <img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911" alt="App Screenshot" width="600"/>
 </p>
 
 <!-- Project Info Table -->
 <p align="center">
-  <b>Status:</b> 🔒 Closed Source | <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/334441d9-544b-4ddc-a6d9-9d28332396cb" />
+  <b>Status:</b> 🔒 Closed Source" />
  Open Source <br>
   <b>Version:</b> 1.0.0
 </p>
@@ -171,7 +171,7 @@ I think these code repositories are okay...
   <a href="https://cafebazaar.ir/app/com.example.app">
     <img alt="Get it on Cafe Bazaar"
          height="60"
-         src="https://cdn.cafebazaar.ir/images/bazaar-badge-en.png"/>
+         src="[https://cdn.cafebazaar.ir/images/bazaar-badge-en.png](https://raw.githubusercontent.com/hosivay/RoozNeveshtApp/master/assets/bazaar.png)"/>
   </a>
 </p>
 
