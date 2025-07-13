@@ -140,34 +140,41 @@ I think these code repositories are okay...
 
 # 🖥 My Best Portfolios :
 
-<!-- Main Table Layout -->
-<table align="center" width="100%">
-  <!-- App Screenshot Row -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911" alt="App Screenshot" width="600"/>
-    </td>
-  </tr>
+<!-- App Screenshot -->
+<p align="center">
+  <img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911" alt="App Screenshot" width="600"/>
+</p>
 
-  <!-- App Info + Logo + Download Buttons -->
+<!-- Info Table: Logo + Name + Status + Version -->
+<table align="center">
   <tr>
-    <!-- Logo + App Info -->
-    <td align="center" width="50%">
+    <td align="center" width="100">
       <img src="https://s.cafebazaar.ir/images/icons/ir.learn.master.edu-349f16f9-cdf3-4b21-9532-09adc3c0a3c6_512x512.png?x-img=v1/format,type_webp,lossless_false/resize,h_256,w_256,lossless_false/optimize" alt="App Icon" width="80" />
-      <h2 style="margin: 8px 0;">Learn Master</h2>
+    </td>
+    <td align="left" valign="middle">
+      <h2 style="margin: 0;">Learn Master</h2>
       <p style="margin: 4px 0;">
         🔒 <b>Status:</b> Closed Source  
         &nbsp;|&nbsp;
         🧩 <b>Version:</b> 1.0.0
       </p>
     </td>
-    <td align="center" width="50%">
+  </tr>
+</table>
+
+<br/>
+
+<!-- Download Buttons Table -->
+<table align="center">
+  <tr>
+    <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.example.app">
         <img alt="Get it on Google Play"
              height="50"
              src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
       </a>
-      <br><br>
+    </td>
+    <td align="center">
       <a href="https://cafebazaar.ir/app/com.example.app">
         <img alt="Get it on Cafe Bazaar"
              height="50"
