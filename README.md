@@ -153,7 +153,8 @@ I think these code repositories are okay...
 
 <!-- Project Info Table -->
 <p align="center">
-  <b>Status:</b> 🔒 Closed Source | 📤 Open Source <br>
+  <b>Status:</b> 🔒 Closed Source | <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/334441d9-544b-4ddc-a6d9-9d28332396cb" />
+ Open Source <br>
   <b>Version:</b> 1.0.0
 </p>
 
