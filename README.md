@@ -138,25 +138,29 @@ I think these code repositories are okay...
 
 ---
 
-# 🖥 My best portfolios :
-
-<!-- Project Title with Icon -->
-<h2 align="center">
-  <img src="https://s.cafebazaar.ir/images/icons/ir.learn.master.edu-349f16f9-cdf3-4b21-9532-09adc3c0a3c6_512x512.png?x-img=v1/format,type_webp,lossless_false/resize,h_256,w_256,lossless_false/optimize" width="28" />
-  <span style="vertical-align: middle;">Project_Name</span>
-</h2>
+# 🖥 My Best Portfolios :
 
 <!-- App Screenshot -->
 <p align="center">
   <img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911" alt="App Screenshot" width="600"/>
 </p>
 
-<!-- Project Info Table -->
-<p align="center">
-  <b>Status:</b> 🔒 Closed Source" />
- Open Source <br>
-  <b>Version:</b> 1.0.0
-</p>
+<!-- Logo + App Name + Status + Version -->
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="100">
+      <img src="https://s.cafebazaar.ir/images/icons/ir.learn.master.edu-349f16f9-cdf3-4b21-9532-09adc3c0a3c6_512x512.png?x-img=v1/format,type_webp,lossless_false/resize,h_256,w_256,lossless_false/optimize" alt="App Icon" width="80" />
+    </td>
+    <td align="left" valign="middle">
+      <h2 style="margin: 0;">Learn Master</h2>
+      <p style="margin: 4px 0;">
+        🔒 <b>Status:</b> Closed Source  
+        &nbsp;|&nbsp;
+        🧩 <b>Version:</b> 1.0.0
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Download Buttons -->
 <p align="center">
@@ -171,9 +175,10 @@ I think these code repositories are okay...
   <a href="https://cafebazaar.ir/app/com.example.app">
     <img alt="Get it on Cafe Bazaar"
          height="60"
-         src="[https://cdn.cafebazaar.ir/images/bazaar-badge-en.png](https://raw.githubusercontent.com/hosivay/RoozNeveshtApp/master/assets/bazaar.png)"/>
+         src="https://raw.githubusercontent.com/hosivay/RoozNeveshtApp/master/assets/bazaar.png"/>
   </a>
 </p>
+
 
 ---
 
