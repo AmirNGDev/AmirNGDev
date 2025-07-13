@@ -142,7 +142,7 @@ I think these code repositories are okay...
 
 <!-- App Screenshot -->
 <p align="center">
-  <img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911" alt="App Screenshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/f9f9fdd7-d524-42a4-83a8-8ca133709d58" alt="App Screenshot" width="600"/>
 </p>
 <table align="center">
   <tr>
