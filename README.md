@@ -173,7 +173,7 @@ I think these code repositories are okay...
       <a href="https://cafebazaar.ir/app/ir.learn.master.edu">
         <img alt="Get it on CafeBazaar"
              height="50"
-             src="https://s.cafebazaar.ir/2/images/get-cafebazaar-en.png"/>
+             src="https://github.com/user-attachments/assets/98e4646e-5fc9-40c9-83dc-ef6111a06265"/>
       </a>
     </td>
   </tr>
