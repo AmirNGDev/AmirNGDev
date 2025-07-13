@@ -144,8 +144,6 @@ I think these code repositories are okay...
 <p align="center">
   <img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911" alt="App Screenshot" width="600"/>
 </p>
-
-<!-- Info Table: Logo + Name + Status + Version -->
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -161,22 +159,19 @@ I think these code repositories are okay...
     </td>
   </tr>
 </table>
-
 <br/>
-
-<!-- Download Buttons Table -->
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.example.app">
-        <img alt="Get it on Google Play"
+        <img alt="Get it on Myket"
              height="50"
-             src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
+             src="https://myket.ir/core/images/logo/get-en.png"/>
       </a>
     </td>
     <td align="center">
       <a href="https://cafebazaar.ir/app/com.example.app">
-        <img alt="Get it on Cafe Bazaar"
+        <img alt="Get it on CafeBazaar"
              height="50"
              src="https://raw.githubusercontent.com/hosivay/RoozNeveshtApp/master/assets/bazaar.png"/>
       </a>
