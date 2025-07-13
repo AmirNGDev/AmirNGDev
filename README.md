@@ -140,18 +140,53 @@ I think these code repositories are okay...
 
 # 🖥 My best portfolios :
 
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
-<a href="https://github.com/AmirNGDev/BMI-Project">👁 More details about the project</a>
+<!-- Project Title with Icon -->
+<h2 align="center">
+  <img src="https://your-icon-url.png" width="28" />
+  <span style="vertical-align: middle;">Project_Name</span>
+</h2>
 
+<!-- App Screenshot -->
+<p align="center">
+  <img src="https://your-screenshot-url.png" alt="App Screenshot" width="600"/>
+</p>
+
+<!-- Project Info Table -->
+<p align="center">
+  <b>Status:</b> 🔒 Closed Source | 📤 Open Source <br>
+  <b>Version:</b> 1.0.0
+</p>
+
+<!-- Download Buttons -->
+<p align="center">
+  <!-- Google Play -->
+  <a href="https://play.google.com/store/apps/details?id=com.example.app">
+    <img alt="Get it on Google Play"
+         height="60"
+         src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Cafe Bazaar -->
+  <a href="https://cafebazaar.ir/app/com.example.app">
+    <img alt="Get it on Cafe Bazaar"
+         height="60"
+         src="https://cdn.cafebazaar.ir/images/bazaar-badge-en.png"/>
+  </a>
+</p>
 
 ---
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/be27c1bd-4043-4649-9200-2b2a917706bc)
 
-<a href="https://github.com/AmirNGDev/Login-and-Signup-Ui">👁 More details about the project</a>
+### 📱 Description
 
-<div align="center">
-   <a href="https://github.com/SeyyedAmirNimaGhaebi/My-best-portfolios"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/View_all_portfolios.png?raw=true" width="400px"></a>
-</div>
+**Project_Name** is a powerful app designed to help users with ...
+
+---
+
+### 🚀 Features
+
+- ✨ Feature 1
+- 📌 Feature 2
+- 🔒 Optional: Limited functionality in free version
 
 ---
 
