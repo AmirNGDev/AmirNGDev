@@ -163,17 +163,17 @@ I think these code repositories are okay...
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.example.app">
+      <a href="https://myket.ir/app/ir.learn.master.edu">
         <img alt="Get it on Myket"
              height="50"
              src="https://myket.ir/core/images/logo/get-en.png"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://cafebazaar.ir/app/com.example.app">
+      <a href="https://cafebazaar.ir/app/ir.learn.master.edu">
         <img alt="Get it on CafeBazaar"
              height="50"
-             src="https://raw.githubusercontent.com/hosivay/RoozNeveshtApp/master/assets/bazaar.png"/>
+             src="https://s.cafebazaar.ir/2/images/get-cafebazaar-en.png"/>
       </a>
     </td>
   </tr>
