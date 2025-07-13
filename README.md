@@ -165,14 +165,14 @@ I think these code repositories are okay...
     <td align="center">
       <a href="https://myket.ir/app/ir.learn.master.edu">
         <img alt="Get it on Myket"
-             height="50"
+             weight="30"
              src="https://myket.ir/core/images/logo/get-en.png"/>
       </a>
     </td>
     <td align="center">
       <a href="https://cafebazaar.ir/app/ir.learn.master.edu">
         <img alt="Get it on CafeBazaar"
-             height="50"
+             weight="30"
              src="https://github.com/user-attachments/assets/98e4646e-5fc9-40c9-83dc-ef6111a06265"/>
       </a>
     </td>
